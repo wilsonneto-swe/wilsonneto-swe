@@ -10,6 +10,6 @@
 
 👋 Hi, I’m a software engineer building scalable systems since 2010.
 
-🚀 I believe great software is about empowering people and solving real problems for real people (not just writing code). \
+🚀 I believe great software is about solving real problems and empowering people (not just writing code). \
 💜 Specialized in backend development, API design, high-scale global projects, and cloud native architecture. \
 📚 Lifelong learner, always exploring new tools, patterns, and paradigms.
