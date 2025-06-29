@@ -1,16 +1,15 @@
-## Hi there 👋
+![Cover](https://github.com/user-attachments/assets/7f6f5fb6-bb79-4482-8c4c-1ec0acee7dce)
 
-<!--
-**wilsongomes-swe/wilsongomes-swe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://www.youtube.com/@wilsongomes-swe/videos" target="_blank"><img src="https://img.shields.io/badge/-Youtube-2D2B55?style=flat-square&logo=Youtube&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/wilsongomes-swe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
+# Hi there, I'm [Wilson Gomes](https://www.linkedin.com/in/wilsongomes-swe/) 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+👋 Hi, I’m a software engineer building scalable systems since 2010.
+
+🚀 I believe great software is about empowering people and solving real problems for real people (not just writing code). \
+💜 Specialized in backend development, API design, high-scale global projects, and cloud native architecture. \
+📚 Lifelong learner, always exploring new tools, patterns, and paradigms.
