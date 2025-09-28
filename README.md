@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="Wilson Neto" src="https://github.com/user-attachments/assets/2b315290-9ae4-4cf3-b6fc-eaa3aa11adef" />
+<img width="2560" height="1440" alt="Wilson Neto - Github" src="https://github.com/user-attachments/assets/74a7c99b-34cc-4ab8-991b-224cc23ac0e8" />
 
 <p align="center">
     <a href="https://www.youtube.com/@wilsongomes-swe/videos" target="_blank"><img src="https://img.shields.io/badge/-Youtube-2D2B55?style=flat-square&logo=Youtube&logoColor=white"/></a>
