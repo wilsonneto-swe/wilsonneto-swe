@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/wilsongomes-swe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-2D2B55?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
-# Hi there, I'm [Wilson Gomes](https://www.linkedin.com/in/wilsongomes-swe/) 👋
+# Hi there, I'm [Wilson Neto](https://www.linkedin.com/in/wilsonneto-swe/) 👋
 
 
 👋 Hi, I’m a software engineer building scalable systems since 2010.
