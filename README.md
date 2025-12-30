@@ -1,4 +1,5 @@
-<img width="1082" height="386" alt="Wilson Neto" src="https://github.com/user-attachments/assets/88b3cc4d-2870-4062-89c8-de3d16b4a2d8" />
+<img width="2560" height="915" alt="image" src="https://github.com/user-attachments/assets/eff1aa2c-bd13-4955-9641-eabfa4a7706d" />
+
 
 <p align="center">
     <a href="https://www.youtube.com/@wilsonneto-swe/videos" target="_blank"><img src="https://img.shields.io/badge/-Youtube-2D2B55?style=flat-square&logo=Youtube&logoColor=white"/></a>
