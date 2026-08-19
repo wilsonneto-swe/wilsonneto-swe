@@ -25,7 +25,7 @@ TypeScript · React · Node.js · Python
 
 I'm one of the maintainers behind [**Craft & Code Club**](https://craftcodeclub.io), a community focused on helping software engineers deepen their craft through practical learning, experience exchange, book clubs and open-source.
 
-One of our projects is [**Roadmap DSA**](https://github.com/craft-code-club/roadmap-dsa), a free, open-source and interactive roadmap for learning **Data Structures & Algorithms**, with visualizations, curated problems, articles, and community contributions.
+One of our projects is [**Roadmap DSA**](https://dsa.craftcodeclub.io), a free, open-source and interactive roadmap for learning **Data Structures & Algorithms**, with visualizations, curated problems, articles, and community contributions.
 
 I also build developer tools and experiments around problems I encounter in my own engineering workflow.
 
