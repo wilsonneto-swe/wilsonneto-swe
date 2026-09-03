@@ -2,50 +2,60 @@
 
 # Hi, I'm [Wilson Neto](https://www.linkedin.com/in/wilsonneto-swe/) 👋
 
-**Senior Software Engineer · Backend & Distributed Systems · Microsoft MVP**
+**Senior Software Engineer · Distributed Systems · Backend Infrastructure · Microsoft MVP**
 
-I've been building software since 2010, with a focus on **backend systems, distributed architectures, APIs, and cloud-native platforms**.
+I build **scalable backend systems and distributed architectures** that handle high throughput, optimize for reliability, and evolve with business needs.
 
-I enjoy working on engineering problems where **scale, reliability, performance, and simplicity** matter, and turning complex technical challenges into systems that are easier to operate and evolve.
+With **15+ years** building production systems, I specialize in:
+- Designing and scaling **distributed systems** and **event-driven architectures**
+- Building **high-performance APIs** and **cloud-native platforms** (AWS, Kubernetes)
+- Leading technical initiatives that improve **system reliability, observability, and operational simplicity**
 
-Beyond my day-to-day engineering work, I'm an active **open-source contributor and community builder**, helping developers grow through practical, accessible engineering education.
+I'm also deeply involved in **open source** and **technical community building**, focusing on practical software engineering education and developer tools.
 
-### 🛠 What I work with
+### 🛠 Technical Stack
 
-**Backend & Systems**  
-C# · .NET · Go · Distributed Systems · Event-Driven Architecture
+**Languages & Frameworks**
+C# · .NET · Go · TypeScript · Node.js · Python
 
-**Infrastructure & Data**  
-AWS · Kubernetes · Docker · Kafka · PostgreSQL · Redis · OpenTelemetry
+**Distributed Systems & Architecture**
+Event-Driven Architecture · Microservices · API Design · System Design
 
-**Also comfortable with**  
-TypeScript · React · Node.js · Python
+**Infrastructure & Platform**
+AWS · Kubernetes · Docker · Terraform · CI/CD
+
+**Data & Messaging**
+PostgreSQL · Redis · Kafka · RabbitMQ · DynamoDB
+
+**Observability & Operations**
+OpenTelemetry · Prometheus · Grafana · DataDog · Distributed Tracing
 
 ### 🌱 Open Source & Community
 
-I'm one of the maintainers behind [**Craft & Code Club**](https://craftcodeclub.io), a community focused on helping software engineers deepen their craft through practical learning, experience exchange, book clubs and open-source.
+I maintain and contribute to several open-source projects:
 
-One of our projects is [**Roadmap DSA**](https://dsa.craftcodeclub.io), a free, open-source and interactive roadmap for learning **Data Structures & Algorithms**, with visualizations, curated problems, articles, and community contributions.
+- [**Craft & Code Club**](https://craftcodeclub.io) – A community for software engineers focused on deliberate practice, technical growth, and collaborative learning
+- [**Roadmap DSA**](https://dsa.craftcodeclub.io) – An open-source, interactive roadmap for mastering **Data Structures & Algorithms** with visualizations and curated problems
+- Developer tools and experiments focused on backend infrastructure and engineering productivity
 
-I also build developer tools and experiments around problems I encounter in my own engineering workflow.
+### 🔭 Current Focus
 
-### 🔭 What I'm exploring
+I'm deepening my expertise in **distributed systems engineering** by building core infrastructure components from first principles in **Go**.
 
-I'm currently deepening my understanding of **Go and distributed systems** by building and experimenting with **core system internals from first principles**.
+This includes implementing:
+- **Storage engines** – key-value stores, LSM-trees, write-ahead logs
+- **Database internals** – query execution, indexing, transaction management
+- **Distributed primitives** – consensus algorithms, replication, consistency models
+- **System observability** – distributed tracing, metrics collection, performance profiling
 
-My focus is on implementing and studying foundational components such as:
+The goal is to **build a deep understanding of how production-grade systems work under the hood**, exploring real-world trade-offs in performance, reliability, and operational complexity.
 
-- key-value stores and storage engines
-- LSM-tree based systems
-- database internals (SQLite-like architectures)
-- distributed system primitives and consistency models
+This work directly complements my experience in building and operating large-scale backend systems.
 
-The goal is not just to use these systems, but to **understand and reimplement their core ideas in practice**, exploring trade-offs in performance, durability, and simplicity.
+### 🤝 Let's Connect
 
-This work builds on my background in backend systems and cloud-native architecture, and helps me go deeper into how modern infrastructure actually works under the hood.
+I'm open to discussing **distributed systems, backend architecture, engineering at scale, and challenging technical problems**.
 
-### 🤝 Let's connect
+If you're working on interesting infrastructure challenges or looking for engineers who care about **building systems that scale and operate well**, let's talk.
 
-I'm always interested in discussing **distributed systems, backend engineering, developer infrastructure, open source, and engineering at scale**.
-
-→ [LinkedIn](https://www.linkedin.com/in/wilsonneto-swe/)
+**[→ LinkedIn](https://www.linkedin.com/in/wilsonneto-swe/)**
