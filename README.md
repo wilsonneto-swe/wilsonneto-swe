@@ -15,42 +15,28 @@ I'm also deeply involved in **open source** and **technical community building**
 
 ### 🛠 Technical Stack
 
-**Languages & Frameworks**
+**Languages & Frameworks** \
 C# · .NET · Go · TypeScript · Node.js · Python
 
-**Distributed Systems & Architecture**
+**Distributed Systems & Architecture** \
 Event-Driven Architecture · Microservices · API Design · System Design
 
-**Infrastructure & Platform**
-AWS · Kubernetes · Docker · Terraform · CI/CD
+**Infrastructure & Platform** \
+Azure · AWS · Kubernetes · Containers · Pulumi · CI/CD
 
-**Data & Messaging**
+**Data & Messaging** \
 PostgreSQL · Redis · Kafka · RabbitMQ · DynamoDB
 
-**Observability & Operations**
-OpenTelemetry · Prometheus · Grafana · DataDog · Distributed Tracing
+**Observability & Operations** \
+OpenTelemetry · Distributed Tracing · New Relic · Azure Application Insights
 
 ### 🌱 Open Source & Community
 
-I maintain and contribute to several open-source projects:
+I maintain and contribute to open-source projects and open communities:
 
 - [**Craft & Code Club**](https://craftcodeclub.io) – A community for software engineers focused on deliberate practice, technical growth, and collaborative learning
 - [**Roadmap DSA**](https://dsa.craftcodeclub.io) – An open-source, interactive roadmap for mastering **Data Structures & Algorithms** with visualizations and curated problems
 - Developer tools and experiments focused on backend infrastructure and engineering productivity
-
-### 🔭 Current Focus
-
-I'm deepening my expertise in **distributed systems engineering** by building core infrastructure components from first principles in **Go**.
-
-This includes implementing:
-- **Storage engines** – key-value stores, LSM-trees, write-ahead logs
-- **Database internals** – query execution, indexing, transaction management
-- **Distributed primitives** – consensus algorithms, replication, consistency models
-- **System observability** – distributed tracing, metrics collection, performance profiling
-
-The goal is to **build a deep understanding of how production-grade systems work under the hood**, exploring real-world trade-offs in performance, reliability, and operational complexity.
-
-This work directly complements my experience in building and operating large-scale backend systems.
 
 ### 🤝 Let's Connect
 
